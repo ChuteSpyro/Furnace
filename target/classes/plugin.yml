@@ -1,0 +1,7 @@
+name: Furnace
+author: ChutSpyro
+version: 1.0
+main: org.furnace.furnace
+api-version: 1.19
+commands:
+  frunace:
